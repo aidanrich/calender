@@ -190,7 +190,7 @@ typeArea9.value = localStorage.getItem("5pm")
 
 
 
-// I'm not sure how to use this
+// I'm not sure how to use this, got it from my tutor
 // function allStorage() {
 
 //     var values = [],
