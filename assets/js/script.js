@@ -60,55 +60,55 @@ console.log(typeArea2.dataset.time);
 
 if(typeArea1.dataset.time < getCurrentTimeint) {
     typeArea1.setAttribute("class", "past")
-} else if(typeArea1.dataset.time === getCurrentTimeint) {
+} else if(typeArea1.dataset.time == getCurrentTimeint) {
     typeArea1.setAttribute("class", "present")
 } else typeArea1.setAttribute("class", "future")
 
 if(typeArea2.dataset.time < getCurrentTimeint) {
     typeArea2.setAttribute("class", "past")
-} else if(typeArea2.dataset.time === getCurrentTimeint) {
+} else if(typeArea2.dataset.time == getCurrentTimeint) {
     typeArea2.setAttribute("class", "present")
 } else typeArea2.setAttribute("class", "future")
 
 if(typeArea3.dataset.time < getCurrentTimeint) {
     typeArea3.setAttribute("class", "past")
-} else if(typeArea3.dataset.time === getCurrentTimeint) {
+} else if(typeArea3.dataset.time == getCurrentTimeint) {
     typeArea3.setAttribute("class", "present")
 } else typeArea3.setAttribute("class", "future")
 
 if(typeArea4.dataset.time < getCurrentTimeint) {
     typeArea4.setAttribute("class", "past")
-} else if(typeArea4.dataset.time === getCurrentTimeint) {
+} else if(typeArea4.dataset.time == getCurrentTimeint) {
     typeArea4.setAttribute("class", "present")
 } else typeArea4.setAttribute("class", "future")
 
 if(typeArea5.dataset.time < getCurrentTimeint) {
     typeArea5.setAttribute("class", "past")
-} else if(typeArea5.dataset.time === getCurrentTimeint) {
+} else if(typeArea5.dataset.time == getCurrentTimeint) {
     typeArea5.setAttribute("class", "present")
 } else typeArea5.setAttribute("class", "future")
 
 if(typeArea6.dataset.time < getCurrentTimeint) {
     typeArea6.setAttribute("class", "past")
-} else if(typeArea6.dataset.time === getCurrentTimeint) {
+} else if(typeArea6.dataset.time == getCurrentTimeint) {
     typeArea6.setAttribute("class", "present")
 } else typeArea6.setAttribute("class", "future")
 
 if(typeArea7.dataset.time < getCurrentTimeint) {
     typeArea7.setAttribute("class", "past")
-} else if(typeArea7.dataset.time === getCurrentTimeint) {
+} else if(typeArea7.dataset.time == getCurrentTimeint) {
     typeArea7.setAttribute("class", "present")
 } else typeArea7.setAttribute("class", "future")
 
 if(typeArea8.dataset.time < getCurrentTimeint) {
     typeArea8.setAttribute("class", "past")
-} else if(typeArea8.dataset.time === getCurrentTimeint) {
+} else if(typeArea8.dataset.time == getCurrentTimeint) {
     typeArea8.setAttribute("class", "present")
 } else typeArea8.setAttribute("class", "future")
 
 if(typeArea9.dataset.time < getCurrentTimeint) {
     typeArea9.setAttribute("class", "past")
-} else if(typeArea9.dataset.time === getCurrentTimeint) {
+} else if(typeArea9.dataset.time == getCurrentTimeint) {
     typeArea9.setAttribute("class", "present")
 } else typeArea9.setAttribute("class", "future")
 
